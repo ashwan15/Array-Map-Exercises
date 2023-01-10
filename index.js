@@ -3,3 +3,6 @@ console.log("solution-1");
 
 console.log("question-2");
 console.log("solution-2");
+
+console.log("question-3");
+console.log("solution-3");
